@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayatri Rayasam</h1>
-<h3 align="center">Android developer || Web developer || RPA</h3>
+<h3 align="center">Android developer || Web developer || Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrir1085&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrir1085" /> </p>
 
