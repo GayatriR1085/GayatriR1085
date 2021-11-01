@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [The Ameliorator - helping small businesses grow](https://sites.google.com/view/theameliorator/home)
 
-- 👯You can join my network! [The Ameliorator](https://forms.gle/UEk131HRF5bZGMWN6)
-
 - 📫 How to reach me **gayatrirayasam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
